@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MirgorodskyWD from Ukraine
+- 👀 I’m interested in Fronend Web Development
+- 🌱 I’m currently learning React and Vue
+- 📫 Contact me: telegram: https://t.me/Mirgorods, skype: live:go.mirgorod, email: go.mirgorod@gmail.com
