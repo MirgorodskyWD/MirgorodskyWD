@@ -8,7 +8,7 @@ I’m always open to new opportunities and collaborations. Let’s connect and c
 
 - 📍 Based in Odesa, Ukraine
 - 📫 Contact me: 
--- Telegram: @iaque, 
--- Email: webdevfullstackua@gmail.com, 
--- Linkedin: https://www.linkedin.com/in/myrhorodskyi/, 
--- Upwork: https://www.upwork.com/freelancers/myrhorodskyi
+- - Telegram: @iaque, 
+- - Email: webdevfullstackua@gmail.com, 
+- - Linkedin: https://www.linkedin.com/in/myrhorodskyi/, 
+- - Upwork: https://www.upwork.com/freelancers/myrhorodskyi
