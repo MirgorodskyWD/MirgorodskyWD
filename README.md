@@ -6,9 +6,10 @@ In addition to frontend development, I have experience with PHP and Laravel, web
 
 I’m always open to new opportunities and collaborations. Let’s connect and create something great together!
 
-- 📍 Based in Odesa, Ukraine
-- 📫 Contact me: 
-- - Telegram: @iaque, 
-- - Email: webdevfullstackua@gmail.com, 
-- - Linkedin: https://www.linkedin.com/in/myrhorodskyi/, 
-- - Upwork: https://www.upwork.com/freelancers/myrhorodskyi
+📍 Based in Odesa, Ukraine
+
+📫 Contact me: 
+- Telegram: @iaque, 
+- Email: webdevfullstackua@gmail.com, 
+- Linkedin: https://www.linkedin.com/in/myrhorodskyi/, 
+- Upwork: https://www.upwork.com/freelancers/myrhorodskyi
