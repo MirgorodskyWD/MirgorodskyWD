@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @MirgorodskyWD from Ukraine
-- 📫 Contact me: telegram: @iaque, email: webdevfullstackua@gmail.com
-
 🚀 Frontend Web Developer | Vue.js | Nuxt.js | Tailwind CSS | Chrome Extensions
 
 I am a frontend web developer with 10 years of experience, specializing in Vue.js (Vue 2 & 3), Nuxt.js, Tailwind CSS, and modern UI frameworks like Vuetify, Nuxt UI, and ShadCN. I have a strong background in building scalable and high-performance web applications, ensuring clean and maintainable code.
@@ -9,4 +6,5 @@ In addition to frontend development, I have experience with PHP and Laravel, web
 
 I’m always open to new opportunities and collaborations. Let’s connect and create something great together!
 
-📍 Based in Odesa, Ukraine
+- 📍 Based in Odesa, Ukraine
+- 📫 Contact me: telegram: @iaque, email: webdevfullstackua@gmail.com
